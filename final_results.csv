@@ -1,0 +1,19 @@
+stage,columns,model,ROC-AUC,PR-AUC,Precision top 25%,Catch rate top 25%,Precision at threshold 0.5
+notification,A: project attributes,Logistic Regression,0.7105,0.4232,0.436,0.436,0.3902
+notification,A: project attributes,Random Forest (default),0.6783,0.3907,0.424,0.424,0.391
+notification,A: project attributes,Random Forest (tuned),0.6959,0.4006,0.424,0.424,0.3762
+approval,A: project attributes,Logistic Regression,0.707,0.4403,0.464,0.464,0.3686
+approval,A: project attributes,Random Forest (default),0.7097,0.4408,0.456,0.456,0.4412
+approval,A: project attributes,Random Forest (tuned),0.7077,0.4484,0.44,0.44,0.3958
+compensation,B: + current status,Logistic Regression,0.7062,0.4154,0.42,0.42,0.3787
+compensation,B: + current status,Random Forest (default),0.6967,0.3929,0.432,0.432,0.4089
+compensation,B: + current status,Random Forest (tuned),0.6967,0.3939,0.428,0.428,0.3808
+legal_dispute,A: project attributes,Logistic Regression,0.9294,0.7781,0.788,0.788,0.7631
+legal_dispute,A: project attributes,Random Forest (default),0.924,0.7435,0.772,0.772,0.7631
+legal_dispute,A: project attributes,Random Forest (tuned),0.9195,0.7582,0.784,0.784,0.7631
+possession,B: + current status,Logistic Regression,0.8381,0.6237,0.636,0.636,0.5651
+possession,B: + current status,Random Forest (default),0.8412,0.5994,0.628,0.628,0.6194
+possession,B: + current status,Random Forest (tuned),0.8377,0.604,0.64,0.64,0.5793
+rehabilitation,C: + earlier stage durations,Logistic Regression,0.7128,0.4189,0.428,0.428,0.4112
+rehabilitation,C: + earlier stage durations,Random Forest (default),0.7106,0.4111,0.42,0.42,0.4236
+rehabilitation,C: + earlier stage durations,Random Forest (tuned),0.7111,0.4064,0.428,0.428,0.4161

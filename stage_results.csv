@@ -1,0 +1,35 @@
+stage,columns,model,ROC-AUC,PR-AUC,Precision in top 25%
+notification,A: project attributes,Logistic Regression,0.711,0.442,0.443
+notification,A: project attributes,Random Forest,0.689,0.409,0.42
+notification,B: + current status,Logistic Regression,0.711,0.441,0.437
+notification,B: + current status,Random Forest,0.689,0.403,0.424
+approval,A: project attributes,Logistic Regression,0.712,0.438,0.447
+approval,A: project attributes,Random Forest,0.7,0.413,0.424
+approval,B: + current status,Logistic Regression,0.713,0.436,0.445
+approval,B: + current status,Random Forest,0.701,0.416,0.443
+approval,C: + earlier stage durations,Logistic Regression,0.712,0.434,0.446
+approval,C: + earlier stage durations,Random Forest,0.7,0.414,0.443
+compensation,A: project attributes,Logistic Regression,0.621,0.333,0.345
+compensation,A: project attributes,Random Forest,0.586,0.296,0.315
+compensation,B: + current status,Logistic Regression,0.726,0.433,0.454
+compensation,B: + current status,Random Forest,0.708,0.403,0.426
+compensation,C: + earlier stage durations,Logistic Regression,0.726,0.432,0.453
+compensation,C: + earlier stage durations,Random Forest,0.709,0.401,0.438
+legal_dispute,A: project attributes,Logistic Regression,0.912,0.758,0.77
+legal_dispute,A: project attributes,Random Forest,0.907,0.735,0.768
+legal_dispute,B: + current status,Logistic Regression,0.912,0.757,0.771
+legal_dispute,B: + current status,Random Forest,0.902,0.724,0.762
+legal_dispute,C: + earlier stage durations,Logistic Regression,0.912,0.755,0.77
+legal_dispute,C: + earlier stage durations,Random Forest,0.905,0.729,0.761
+possession,A: project attributes,Logistic Regression,0.788,0.55,0.599
+possession,A: project attributes,Random Forest,0.784,0.537,0.594
+possession,B: + current status,Logistic Regression,0.814,0.588,0.602
+possession,B: + current status,Random Forest,0.81,0.58,0.596
+possession,C: + earlier stage durations,Logistic Regression,0.813,0.585,0.602
+possession,C: + earlier stage durations,Random Forest,0.808,0.566,0.602
+rehabilitation,A: project attributes,Logistic Regression,0.643,0.358,0.373
+rehabilitation,A: project attributes,Random Forest,0.623,0.334,0.342
+rehabilitation,B: + current status,Logistic Regression,0.714,0.427,0.434
+rehabilitation,B: + current status,Random Forest,0.704,0.411,0.442
+rehabilitation,C: + earlier stage durations,Logistic Regression,0.713,0.424,0.432
+rehabilitation,C: + earlier stage durations,Random Forest,0.71,0.422,0.441

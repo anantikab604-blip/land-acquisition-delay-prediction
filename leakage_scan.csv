@@ -1,0 +1,25 @@
+,notification,approval,compensation,legal_dispute,possession,rehabilitation
+district_historical_delay_rate,0.63,0.634,0.615,0.554,0.578,0.626
+land_area_hectares,0.506,0.53,0.523,0.518,0.517,0.534
+num_affected_families,0.506,0.531,0.522,0.52,0.52,0.534
+num_approvals_pending,0.649,0.619,0.51,0.504,0.506,0.501
+compensation_disbursed_pct,0.501,0.505,0.687,0.505,0.599,0.65
+legal_dispute_flag,0.506,0.507,0.507,0.882,0.747,0.562
+rehab_progress_pct,0.507,0.505,0.66,0.744,0.743,0.677
+stakeholder_responsiveness_score,0.572,0.617,0.503,0.52,0.503,0.504
+days_since_notification,0.519,0.524,0.504,0.501,0.502,0.513
+notification_duration_days,1.0,0.602,0.528,0.517,0.519,0.527
+notification_risk_score,0.739,0.692,0.568,0.524,0.539,0.566
+approval_duration_days,0.593,1.0,0.533,0.51,0.534,0.54
+approval_risk_score,0.693,0.74,0.561,0.527,0.541,0.576
+compensation_duration_days,0.543,0.531,1.0,0.506,0.56,0.605
+compensation_risk_score,0.565,0.572,0.753,0.519,0.615,0.684
+legal_dispute_duration_days,0.544,0.537,0.528,1.0,0.738,0.594
+legal_dispute_risk_score,0.57,0.55,0.548,0.931,0.782,0.624
+possession_duration_days,0.52,0.533,0.564,0.767,1.0,0.602
+possession_risk_score,0.547,0.539,0.616,0.9,0.833,0.667
+rehabilitation_duration_days,0.535,0.542,0.585,0.592,0.598,1.0
+rehabilitation_risk_score,0.575,0.572,0.678,0.705,0.72,0.745
+possession_status (ordered),0.501,0.505,0.639,0.52,0.583,0.606
+compensation_disbursed_pct__is_missing,0.502,0.505,0.503,0.503,0.501,0.5
+stakeholder_responsiveness_score__is_missing,0.501,0.502,0.504,0.501,0.502,0.503

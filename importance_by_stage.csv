@@ -1,0 +1,66 @@
+stage,feature_group,mean_ROC_AUC_drop
+approval,district_historical_delay_rate,0.08081
+approval,num_approvals_pending,0.06566
+approval,stakeholder_responsiveness_score,0.06472
+approval,state (all categories),0.00386
+approval,project_type (all categories),0.00067
+approval,legal_dispute_flag,-0.00069
+approval,land_area_hectares,-0.00101
+approval,num_affected_families,-0.0041
+compensation,compensation_disbursed_pct,0.08908
+compensation,district_historical_delay_rate,0.05178
+compensation,rehab_progress_pct,0.00614
+compensation,num_affected_families,0.00152
+compensation,project_type (all categories),0.00114
+compensation,num_approvals_pending,0.00054
+compensation,state (all categories),8e-05
+compensation,land_area_hectares,-0.0
+compensation,possession_status_ord,-0.00081
+compensation,legal_dispute_flag,-0.00182
+compensation,days_since_notification,-0.00274
+compensation,stakeholder_responsiveness_score,-0.00282
+legal_dispute,legal_dispute_flag,0.37248
+legal_dispute,district_historical_delay_rate,0.02663
+legal_dispute,project_type (all categories),0.00183
+legal_dispute,stakeholder_responsiveness_score,0.00057
+legal_dispute,num_affected_families,-0.00047
+legal_dispute,state (all categories),-0.00055
+legal_dispute,num_approvals_pending,-0.00216
+legal_dispute,land_area_hectares,-0.00513
+notification,district_historical_delay_rate,0.09914
+notification,num_approvals_pending,0.0973
+notification,stakeholder_responsiveness_score,0.02101
+notification,project_type (all categories),0.00021
+notification,state (all categories),-0.0013
+notification,legal_dispute_flag,-0.0016
+notification,land_area_hectares,-0.00218
+notification,num_affected_families,-0.00532
+possession,legal_dispute_flag,0.22128
+possession,district_historical_delay_rate,0.01693
+possession,rehab_progress_pct,0.01642
+possession,compensation_disbursed_pct,0.00515
+possession,days_since_notification,0.00208
+possession,num_approvals_pending,0.00185
+possession,stakeholder_responsiveness_score,0.00151
+possession,possession_status_ord,0.00057
+possession,land_area_hectares,0.00037
+possession,state (all categories),-0.00047
+possession,project_type (all categories),-0.00051
+possession,num_affected_families,-0.00148
+rehabilitation,rehab_progress_pct,0.0656
+rehabilitation,district_historical_delay_rate,0.02567
+rehabilitation,compensation_disbursed_pct,0.0205
+rehabilitation,legal_dispute_duration_days,0.00648
+rehabilitation,possession_duration_days,0.00412
+rehabilitation,compensation_duration_days,0.0038
+rehabilitation,notification_duration_days,0.00095
+rehabilitation,num_approvals_pending,0.00082
+rehabilitation,state (all categories),0.00065
+rehabilitation,project_type (all categories),-0.00076
+rehabilitation,legal_dispute_flag,-0.00084
+rehabilitation,days_since_notification,-0.00101
+rehabilitation,approval_duration_days,-0.00209
+rehabilitation,stakeholder_responsiveness_score,-0.00213
+rehabilitation,land_area_hectares,-0.00229
+rehabilitation,possession_status_ord,-0.00286
+rehabilitation,num_affected_families,-0.00346

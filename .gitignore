@@ -1,0 +1,14 @@
+
+# Python environments
+python-env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Trained models (53 MB)
+models/
