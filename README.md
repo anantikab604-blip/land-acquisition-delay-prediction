@@ -47,6 +47,7 @@ project. Teams usually find out about a delay after it has happened.
 Results are written to `RESULTS.md` by `make_report.py`.
 
 ## How to run
+**Note:** The trained models are not included in this GitHub repository because the `models/` folder is excluded through `.gitignore`. Run `step4_tune_explain_stages.py` before launching the Streamlit dashboard. This script generates the trained models required by the application.
 
 ```
 pip install -r requirements.txt
